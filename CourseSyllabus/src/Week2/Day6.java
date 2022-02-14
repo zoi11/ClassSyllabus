@@ -26,6 +26,12 @@ public class Day6 {
         order by
         max
         count
+        inner join
+        left join
+        right join
+        outer join
+        cross join
+        group by
         rank/dense_rank
         union/intersect/minus
 
